@@ -1,0 +1,13 @@
+{
+  "name": "@dilla-io/demo-wasm-extism-nodejs",
+  "version": "0.1.0",
+  "author": "Jean Valverde <jean@dilla.io>",
+  "license": "GPL-3.0-or-later",
+  "private": true,
+  "homepage": "https://dilla.io",
+  "description": "Dilla snippet with Extism and NodeJS, visit us at https://dilla.io",
+  "type": "module",
+  "dependencies": {
+    "@extism/extism": "^1.0"
+  }
+}

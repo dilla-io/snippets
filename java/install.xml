@@ -1,0 +1,13 @@
+<!-- Install Extism lib https://github.com/extism/java-sdk?tab=readme-ov-file#install-the-extism-runtime-dependency -->
+<!-- Add extism sdk for java to your build -->
+<dependency>
+  <groupId>org.extism.sdk</groupId>
+  <artifactId>extism</artifactId>
+  <version>1.0.0</version>
+</dependency>
+<!-- Suggested for json manipulation -->
+<dependency>
+  <groupId>org.json</groupId>
+  <artifactId>json</artifactId>
+  <version>20231013</version>
+</dependency>

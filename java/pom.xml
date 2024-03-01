@@ -1,0 +1,13 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.dilla</groupId>
+  <artifactId>dilla-jar</artifactId>
+  <version>1</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.extism.sdk</groupId>
+      <artifactId>extism</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+  </dependencies>
+</project>

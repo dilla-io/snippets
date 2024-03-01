@@ -1,0 +1,9 @@
+{
+  "name": "dilla-io/app",
+  "type": "project",
+  "minimum-stability": "dev",
+  "license": "GPL-3.0+",
+  "require": {
+      "extism/extism": "^1.0"
+  }
+}
