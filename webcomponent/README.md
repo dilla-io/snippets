@@ -1,4 +1,4 @@
-# Dilla Extism with Java
+# Dilla Bindgen with Webcomponents
 
 Minimal usage of Dilla WASM with Webcomponents, visit us at [https://dilla.io](https://dilla.io)
 

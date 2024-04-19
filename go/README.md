@@ -1,6 +1,6 @@
 # Dilla Extism with Go
 
-Minimal usage of Dilla WASM with Go leveraging [Extism](https://github.com/extism/dotnet-sdk), visit us at [https://dilla.io](https://dilla.io)
+Minimal usage of Dilla WASM with Go leveraging [Extism](https://github.com/extism/go-sdk), visit us at [https://dilla.io](https://dilla.io)
 
 ## Build
 

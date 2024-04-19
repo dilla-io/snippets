@@ -1,6 +1,6 @@
 # Dilla Extism with PHP
 
-Minimal usage of Dilla WASM with PHP leveraging [Extism](https://github.com/extism/dotnet-sdk), visit us at [https://dilla.io](https://dilla.io)
+Minimal usage of Dilla WASM with PHP leveraging [Extism](https://github.com/extism/php-sdk), visit us at [https://dilla.io](https://dilla.io)
 
 ## Build
 

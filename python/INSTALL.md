@@ -3,5 +3,5 @@ Install instruction: [https://github.com/extism/python-sdk](https://github.com/e
 Using pip:
 
 ```sh
-pip install extism==1.0.0
+pip install extism==1.0.1
 ```

@@ -1,6 +1,6 @@
-# Dilla Extism with Python
+# Dilla Extism with Ruby
 
-Minimal usage of Dilla WASM with Ruby leveraging [Extism](https://github.com/extism/dotnet-sdk), visit us at [https://dilla.io](https://dilla.io)
+Minimal usage of Dilla WASM with Ruby leveraging [Extism](https://github.com/extism/rubyy-sdk), visit us at [https://dilla.io](https://dilla.io)
 
 ## Build
 

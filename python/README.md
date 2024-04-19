@@ -1,6 +1,6 @@
 # Dilla Extism with Python
 
-Minimal usage of Dilla WASM with Python leveraging [Extism](https://github.com/extism/dotnet-sdk), visit us at [https://dilla.io](https://dilla.io)
+Minimal usage of Dilla WASM with Python leveraging [Extism](https://github.com/extism/python-sdk), visit us at [https://dilla.io](https://dilla.io)
 
 ## Build
 

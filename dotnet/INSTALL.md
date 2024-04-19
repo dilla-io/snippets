@@ -1,4 +1,4 @@
-Install instruction: [https://github.com/extism/php-sdk](https://github.com/extism/php-sdk)
+Install instruction: [https://github.com/extism/dotnet-sdk](https://github.com/extism/dotnet-sdk)
 
 ```shell
 dotnet add package Extism.runtime.all
