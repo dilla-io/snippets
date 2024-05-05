@@ -1,5 +1,6 @@
 {
-  "type": "codesandbox",
+  "type": "link",
+  "provider": "codesandbox",
   "render": "dilla-engine-57mccg?embed=1&file=%2Fmain.py",
   "describe": "dilla-python-render-forked-r474wh?embed=1&file=%2Fmain.py"
 }

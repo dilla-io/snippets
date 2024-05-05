@@ -1,5 +1,6 @@
 {
-  "type": "codesandbox",
+  "type": "link",
+  "provider": "codesandbox",
   "render": "dilla-go-render-p3426z?embed=1&file=%2Fmain.go",
   "describe": "dilla-go-describe-z9jn7c?embed=1&file=%2Fmain.go"
 }
